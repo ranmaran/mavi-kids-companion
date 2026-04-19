@@ -1,0 +1,7 @@
+torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
+faster-whisper
+ollama
+transformers
+soundfile
+pygame
+snac
