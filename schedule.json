@@ -1,0 +1,32 @@
+{
+  "monday": [
+    "School at 9:00 AM",
+    "Math lesson at 5:00 PM",
+    "Bed time at 9:00 PM"
+  ],
+  "tuesday": [
+    "Science with animals at 9:15 AM",
+    "Math games at 11:00 AM",
+    "Swimming class at 4:30 PM"
+  ],
+  "wednesday": [
+    "Reading time at 9:00 AM",
+    "Gymnasium at 6:30 PM"
+  ],
+  "thursday": [
+    "Spelling test prep at 9:30 AM",
+    "Math at 11:00 AM",
+    "Story time at 2:00 PM"
+  ],
+  "friday": [
+    "Animal project at 9:30 AM",
+    "Fun reading day at 1:00 PM"
+  ],
+  "saturday": [
+    "Weekend reading fun!",
+    "Puzzle time with family"
+  ],
+  "sunday": [
+    "Rest day with books and puzzles"
+  ]
+}
